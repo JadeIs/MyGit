@@ -6,4 +6,6 @@ package com.example.day_02_git;
 
 public class fasio {
     public String string = "陈";
+
+    public String string2 = "陈";
 }
