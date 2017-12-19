@@ -6,5 +6,6 @@ package com.example.day_02_git;
 
 public class MyTest {
     public String string = "陈";
-    public String string2= "健";
+    public String string2 = "健";
+    public String string3 = "平";
 }
